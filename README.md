@@ -1,5 +1,7 @@
 # gif2grid-mcp
 
+[![CI](https://github.com/xunWhale/gif2grid-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/xunWhale/gif2grid-mcp/actions/workflows/ci.yml)
+
 An MCP server that turns an animated image into **one timestamped contact sheet**, so an agent can actually see what happens over time instead of receiving a single still frame.
 
 ## The problem
