@@ -1,0 +1,3 @@
+tools: ['gif_to_grid']
+content kinds: ['image', 'text']
+summary: {"source": "motion.gif", "frame_count": 6, "frame_timestamps_ms": [0, 80, 160, 200, 280, 360], "grid": {"width": 900, "height": 338}, "note": "Each cell is one sampled frame, in timeline order. Timest
